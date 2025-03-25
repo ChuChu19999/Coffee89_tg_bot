@@ -48,7 +48,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [url репозитория]
+git clone https://github.com/ChuChu19999/Coffee89_tg_bot.git
 cd k89-coffee-bot
 ```
 
