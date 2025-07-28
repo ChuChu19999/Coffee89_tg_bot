@@ -38,7 +38,7 @@
 
 - Python 3.8+
 - PostgreSQL
-- Зависимости из requirements.txt:
+- Зависимости:
   - python-telegram-bot==20.7
   - python-dotenv==1.0.0
   - SQLAlchemy==2.0.23
