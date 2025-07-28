@@ -117,7 +117,3 @@ chmod +x run.sh
 - `config.py` - Конфигурация и переменные окружения
 - `run.bat`/`run.sh` - Скрипты запуска
 - `requirements.txt` - Список зависимостей
-
-## Лицензия
-
-MIT License
